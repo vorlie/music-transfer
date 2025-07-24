@@ -1,0 +1,6 @@
+.env
+playlists/*.xml
+reports
+seen
+import_results.csv
+oauth.json
