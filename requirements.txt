@@ -1,0 +1,8 @@
+certifi==2025.7.14
+charset-normalizer==3.4.2
+idna==3.10
+rapidfuzz==3.13.0
+requests==2.32.4
+unidecode==1.4.0
+urllib3==2.5.0
+ytmusicapi==1.10.3
